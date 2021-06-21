@@ -30,7 +30,7 @@ public class Program
 
 ```python3   main.py
 for i in range(10):
-  print("Hallo Welt", i)
+  print("Hello world", i)
 ```
 @LIA.eval(["main.py"], python3 -m compileall ., python3 main.py)
 
