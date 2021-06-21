@@ -28,7 +28,7 @@ public class Program
 ```
 @LIA.eval(`["main.cs"]`, `mono main.cs`, `mono main.exe`)
 
-```Python3    penis
+```python3   main.py
 for i in range(10):
   print("Hallo Welt", i)
 ```
