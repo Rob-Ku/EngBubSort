@@ -17,7 +17,8 @@ mode: Presentation
 
 # test
 
-```csharp        FirstStructExample
+```csharp        
+FirstStructExample
 using System;
 public class Program
 {
@@ -28,6 +29,11 @@ public class Program
 ```
 @LIA.eval(`["main.cs"]`, `mono main.cs`, `mono main.exe`)
 
+```python     
+for i in range(10):
+  print("Hallo Welt", i)
+```
+@LIA.eval(["main.py"], python3 -m compileall ., python3 main.py)
 
 
 ## video
