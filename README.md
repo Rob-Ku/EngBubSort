@@ -1,5 +1,5 @@
 # EngBubSort
 
-this is for an uni project
+this is for an uni project /n
 https://liascript.github.io/course/?https://raw.githubusercontent.com/Rob-Ku/EngBubSort/main/project.md#1
 ^interactive version^
